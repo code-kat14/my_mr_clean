@@ -11,11 +11,16 @@ Create a visual representation of all the most meaningful words on a Wikipedia a
    - stop words (low meaning words) such as "the", "of", "is" ...
 
 ## Installation
-
+No installion needed.
 
 ## Usage
-TODO - How does it work?
+You will need to have jupyter notebooks downloaded to your IDE of use.<br>
 
-./my_project argument1 argument2
+In your Terminal: <br>
+    - git clone <repository link>
+Make sure you are in my_mr_clean directory<br>
+You are ready to run your jupyter notebook cells!<br>
+Happy coding<br>
+
 The Core Team
 Made at Qwasar SV -- Software Engineering School <img alt="Qwasar SV -- Software Engineering School's Logo" src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' />
