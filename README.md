@@ -17,7 +17,7 @@ No installion needed.
 You will need to have jupyter notebooks downloaded to your IDE of use.<br>
 
 In your Terminal: <br>
-    - git clone <repository link>
+    - git clone <repository link><br>
 Make sure you are in my_mr_clean directory<br>
 You are ready to run your jupyter notebook cells!<br>
 Happy coding<br>
