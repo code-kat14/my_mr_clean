@@ -1,9 +1,9 @@
 # Welcome to My Mr Clean - A Wikipedia Text Analysis
 ## Task
-TODO - What is the problem? And where is the challenge?
+Create a visual representation of all the most meaningful words on a Wikipedia article.
 
 ## Description
-TODO - How have you solved the problem?
+1. Retrieve the raw data from a Wikipedia Article (In this case it will be an article on 
 
 ## Installation
 TODO - How to install your project? npm install? make? make re?
